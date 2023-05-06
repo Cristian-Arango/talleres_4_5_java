@@ -1,6 +1,6 @@
 # talleres_4_5_java
 
-Este RPoyecto basa en distintas forma de hacer una conexion con una base de datos creada en Wordbench y para evidenciar que funcione  mostramos las respectivas imagenes mostrandando el nombre y el apellido
+Este peoyecto basa en distintas forma de hacer una conexion con una base de datos creada en Wordbench y para evidenciar que funcione  mostramos las respectivas imagenes mostrandando el nombre y el apellido
 
 
 
