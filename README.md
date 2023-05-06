@@ -1,5 +1,10 @@
 # talleres_4_5_java
 
+Este RPoyecto basa en distintas forma de hacer una conexion con una base de datos creada en Wordbench y para evidenciar que funcione  mostramos las respectivas imagenes mostrandando el nombre y el apellido
+
+
+
+
 En esta imagen evidenciamos que la conexion llamada "BAsicConection" Se evidencia que funiona correctamente mostrando los campos nombre y apellido
 
 
